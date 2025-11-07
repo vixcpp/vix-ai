@@ -1,0 +1,4 @@
+add_executable(vix_ai_distributed_smoke_test distributed_smoke_test.cpp)
+target_link_libraries(vix_ai_distributed_smoke_test PRIVATE Vix::AI::distributed)
+target_compile_features(vix_ai_distributed_smoke_test PRIVATE cxx_std_20)
+add_test(NAME vix_ai_distributed_smoke_test COMMAND vix_ai_distributed_smoke_test)

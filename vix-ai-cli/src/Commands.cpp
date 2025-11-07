@@ -1,0 +1,1 @@
+#include "vix/ai/cli/Commands.hpp"

@@ -1,0 +1,4 @@
+add_executable(vix_ai_nlp_smoke_test nlp_smoke_test.cpp)
+target_link_libraries(vix_ai_nlp_smoke_test PRIVATE Vix::AI::nlp)
+target_compile_features(vix_ai_nlp_smoke_test PRIVATE cxx_std_20)
+add_test(NAME vix_ai_nlp_smoke_test COMMAND vix_ai_nlp_smoke_test)

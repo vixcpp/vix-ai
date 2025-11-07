@@ -1,0 +1,4 @@
+add_executable(vix_ai_vision_smoke_test vision_smoke_test.cpp)
+target_link_libraries(vix_ai_vision_smoke_test PRIVATE Vix::AI::vision)
+target_compile_features(vix_ai_vision_smoke_test PRIVATE cxx_std_20)
+add_test(NAME vix_ai_vision_smoke_test COMMAND vix_ai_vision_smoke_test)
