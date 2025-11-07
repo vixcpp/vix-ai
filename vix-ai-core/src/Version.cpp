@@ -1,1 +1,0 @@
-#include "vix/ai/core/Version.hpp"
