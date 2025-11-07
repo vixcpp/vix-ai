@@ -1,6 +1,6 @@
 <p align="center" style="margin:0;">
   <img 
-    src="https://res.cloudinary.com/dwjbed2xb/image/upload/v1762523865/ChatGPT_Image_Nov_7_2025_04_52_30_PM_qaxzyu.png" 
+    src="https://res.cloudinary.com/dwjbed2xb/image/upload/v1762524349/vixai_snfafp.png" 
     alt="Vix.AI Banner" 
     width="100%" 
     style="
