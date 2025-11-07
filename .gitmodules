@@ -22,3 +22,7 @@
 	path = vix-ai-vision
 	url = https://github.com/vixcpp/vix-ai-vision.git
 	branch = dev
+[submodule "vix-ai-ml"]
+	path = vix-ai-ml
+	url = git@github.com:vixcpp/vix-ai-ml.git
+	branch = dev
