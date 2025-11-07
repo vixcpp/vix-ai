@@ -10,10 +10,6 @@
 	path = vix-ai-distributed
 	url = https://github.com/vixcpp/vix-ai-distributed.git
 	branch = dev
-[submodule "vix-ai-ml"]
-	path = vix-ai-ml
-	url = https://github.com/vixcpp/vix-ai-ml.git
-	branch = dev
 [submodule "vix-ai-nlp"]
 	path = vix-ai-nlp
 	url = https://github.com/vixcpp/vix-ai-nlp.git
